@@ -2,8 +2,6 @@
 
 # 🚀 GitHub Portfolio - Nattapong Suwansukho
 
-![My Picture](https://pbs.twimg.com/profile_images/1802301266263236608/peytoL77_400x400.jpg)
-
 ## 👋 Hello! I'm Nattapong Suwansukho  
 📍 **Bangkok, Thailand** | 🔹 **Data Engineer** | 🔹 **AI & IoT Enthusiast** | 🔹 **Energy Management**  
 
