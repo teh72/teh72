@@ -52,9 +52,9 @@ I also explore **Agentic AI solutions** and work with **Generative AI for busine
 📌 **Description**: Built a **Python-Selenium-based system** to **automatically log in and retrieve solar energy data**.  
 🛠 **Tech Stack**: **Python, Selenium, Raspberry Pi, Streamlit**  
 
-### 🔹 5. **Real-time Baccarat Statistical Analysis System**  
-📌 **Description**: Developed a **data collection & analysis tool** for **tracking Baccarat game statistics**.  
-🛠 **Tech Stack**: **JavaScript, Next.js, Chart.js**  
+### 🔹 5. **AI-driven ETL Framework for Data Pipeline Optimization**  
+📌 **Description**: Designed and developed an **AI-enhanced ETL framework** to automate **data transformation, validation, and orchestration** for large-scale analytics pipelines.  
+🛠 **Tech Stack**: **Python, Apache Airflow, PostgreSQL, Pandas, FastAPI**  
 
 ---
 
